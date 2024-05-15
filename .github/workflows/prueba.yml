@@ -7,6 +7,7 @@ on:
     branches: [ V.0.2 ]
   schedule:
     - cron: '1 23 * * 0-4'
+
 jobs:
   Build:
     runs-on: ubuntu-latest
