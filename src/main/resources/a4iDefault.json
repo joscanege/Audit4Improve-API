@@ -136,6 +136,7 @@
 			"type": "java.lang.Integer",
 			"description": "Número de repositorios con pull requests pendientes",
 			"unit": "repositories"
+
 		},
 		{
 			"name": "teamsBalance",
@@ -143,6 +144,10 @@
 			"description": "Balance de equipos y open issues",
 			"unit": "ratio"
 		}		
+
+
+		
+
 	],
 	"indicators": [{
 			"name": "issuesProgress",
